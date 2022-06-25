@@ -55,6 +55,21 @@ namespace CalcWeb.Controllers
                     Multiplication multiplication = new Multiplication();
                     result = multiplication.Calculate(firstArgument, secondArgument);
                     break;
+                case "Деление":
+                    Division division = new Division();
+                    result = division.Calculate(firstArgument, secondArgument);
+                    break;
+
+                case "Степень":
+                    Degree degree = new Degree();
+                    result = degree.Calculate(firstArgument, secondArgument);
+                    break;
+
+                case "Остаток от деления":
+                    Remainder remainder = new Remainder();
+                    result = remainder.Calculate(firstArgument, secondArgument);
+                    ViewBag.Result = result;
+                    break;
             }
 
             ViewBag.Result = result;
