@@ -1,0 +1,13 @@
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\bin\Debug\calc.exe.config
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\bin\Debug\calc.exe
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\bin\Debug\calc.pdb
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\bin\Debug\nunit.framework.dll
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\bin\Debug\nunit.framework.xml
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.csproj.CopyComplete
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.exe
+C:\Users\mnago\OneDrive\Рабочий стол\Учёба\практика\calc_ivt-213\calc\calc\obj\Debug\calc.pdb
