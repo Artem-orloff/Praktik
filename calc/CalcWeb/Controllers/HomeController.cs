@@ -74,7 +74,15 @@ namespace CalcWeb.Controllers
 
             ViewBag.Result = result;
 
-
+            ViewBag.Operation = new SelectListItem[]
+            {
+                new SelectListItem() { Value = "Сложение", Text ="Сложение" },
+                new SelectListItem() { Value = "Вычитание", Text ="Вычитание" },
+                new SelectListItem() { Value = "Умножение", Text ="Умножение" },
+                new SelectListItem() { Value = "Деление", Text ="Деление" },
+                new SelectListItem() { Value = "Степень", Text ="Степень" },
+                new SelectListItem() { Value = "Остаток от деления", Text ="Остаток от деления" }
+            };
             return View();
         }
         public IActionResult Privacy()
